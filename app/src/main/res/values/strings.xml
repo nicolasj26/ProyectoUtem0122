@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">proyecto utem 0122</string>
+    <string name="wellcome">PAGINA PRINCIPAL</string>
+    <string name="Siguiente">Siguiente</string>
+    <string name="Atras">Atras</string>
+    <string name="hola2">BIENVENIDO A LA SEGUNDA ACTIVIDAD</string>
+    <string name="content_cartoon_image">cartoon_image</string>
+</resources>
